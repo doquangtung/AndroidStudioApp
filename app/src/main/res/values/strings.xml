@@ -3,4 +3,6 @@
     <string name="TOAST">TOAST</string>
     <string name="COUNT">COUNT</string>
     <string name="msg">Hello Toast</string>
+    <string name="count">COUNT</string>
+    <string name="toast">TOAST</string>
 </resources>
